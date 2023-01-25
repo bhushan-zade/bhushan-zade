@@ -35,10 +35,9 @@ I'm Bhushan from India, Data Science professional with a strong passion for solv
 
 [<img align="left" alt="TF" width="33px" src="https://i.imgur.com/oGwE8PR.png" style="padding-right:10px;" />][tensorflow]
 <img align="left" alt="Keras" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" style="padding-right:10px;" />
-NLTK
-<br/>
-
-
+</p>
+NLP
+</p>
 <img align="left" alt="Spacy" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" style="padding-right:10px;" />
 [<img align="left" alt="OpenCV" width="28px" src="https://i.imgur.com/xFMyVyV.png" style="padding-right:10px;" />][openCV]
 <img align="left" alt="Streamlit" height="38px" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" style="padding-right:10px;" />
