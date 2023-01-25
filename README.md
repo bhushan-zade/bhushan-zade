@@ -50,7 +50,7 @@ I'm Bhushan from India, Data Science professional with a strong passion for solv
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" style="padding-right:10px;" />][jupyter]
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" style="padding-right:10px;" />][pycharm]
 [<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" style="padding-right:10px;" />][anaconda]
-[<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" style="padding-right:10px;" />][notepad++]
+
 
 
 
