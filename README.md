@@ -42,7 +42,7 @@ I'm Bhushan from India, Data Science professional with a strong passion for solv
 <br/>
 
 
-<img align="left" alt="Spacy" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Spacy" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenCV" width="28px" src="https://i.imgur.com/xFMyVyV.png" style="padding-right:10px;" />
 <img align="left" alt="Streamlit" height="38px" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" style="padding-right:10px;" />
 <img align="left" alt="Heroku" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" style="padding-right:10px;" />
