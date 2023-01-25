@@ -1,14 +1,17 @@
 # 👨‍💻 Bhushan Zade
 
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/bhushan-zade/readme-typing-svg -->
     <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20Professional%20;ML%20and%20DL%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/118050962/214523594-42be6ec1-aeeb-4b20-a3a7-4790098028e2.gif">
+<br/>
+<br/>
+
 **`Data Science Professional`**
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 I'm Bhushan from India, Data Science professional with a strong passion for solving real-world business problems. Completed my Graduation from Electronics and Telecommunication Engineering. I am excited to bring my knowledge and skills in data analysis, machine learning & deep learning, and NLP to a new role. I am eager to apply my skills and knowledge to drive business growth and success.
 
