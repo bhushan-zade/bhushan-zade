@@ -6,14 +6,20 @@
 </p>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/118050962/214523594-42be6ec1-aeeb-4b20-a3a7-4790098028e2.gif">
+<img align="right" alt="coding" height="400" width="400" src="https://user-images.githubusercontent.com/118050962/214523594-42be6ec1-aeeb-4b20-a3a7-4790098028e2.gif">
 
 <br/>
 
 **`Data Science Professional`**
 
 
-I'm Bhushan from India, Data Science professional with a strong passion for solving real-world business problems. Completed my Graduation from Electronics and Telecommunication Engineering and also studied data science. I am excited to bring my knowledge and skills in data analysis, machine learning & deep learning, and NLP to a new role. I am eager to apply my skills and knowledge to drive business growth and success.
+I'm Bhushan from India, Data Science professional with a strong passion for solving real-world business problems. I have Completed my Graduation from Electronics and Telecommunication Engineering and also studied data science.
+<br/>
+
+For me 'Data' is the currency of the digital age, and "data science" is the art of turning data into action. Data science is the bridge between the present and the future, it helps us to understand the present and predict the future. The immense power of data motivated me, and I began my journey into the field of data science.
+<br/>
+
+I'm currently searching for an opportunity in the filed of data science, Please let me know if any job opportunity is available.
 
 
 #### Connect With Me:
