@@ -11,7 +11,7 @@
 **`Data Science Professional`**
 
 
-I'm Bhushan from India, Data Science professional with a strong passion for solving real-world business problems. Completed my Graduation from Electronics and Telecommunication Engineering. I am excited to bring my knowledge and skills in data analysis, machine learning & deep learning, and NLP to a new role. I am eager to apply my skills and knowledge to drive business growth and success.
+I'm Bhushan from India, Data Science professional with a strong passion for solving real-world business problems. Completed my Graduation from Electronics and Telecommunication Engineering and also studied data science. I am excited to bring my knowledge and skills in data analysis, machine learning & deep learning, and NLP to a new role. I am eager to apply my skills and knowledge to drive business growth and success.
 
 
 #### Connect With Me:
