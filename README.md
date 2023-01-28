@@ -6,7 +6,7 @@
 </p>
 
 
-<img align="right" alt="coding" height="370" width="400" src="https://user-images.githubusercontent.com/118050962/214523594-42be6ec1-aeeb-4b20-a3a7-4790098028e2.gif">
+<img align="right" alt="coding" height="360" width="400" src="https://user-images.githubusercontent.com/118050962/214523594-42be6ec1-aeeb-4b20-a3a7-4790098028e2.gif">
 
 <br/>
 
