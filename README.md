@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/bhushan-zade/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20%26%20AI%20Professional;Turning%20ideas%20into%20impact!;Dedicated%20to%20innovative%20solutions!&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20%26%20AI%20Professional;Turning%20ideas%20into%20impact!;Dedicated%20to%20innovative%20solutions&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" />
 </p>
 
 
