@@ -14,10 +14,11 @@
 **`Data Science & AI Professional`**
 
 
-I'm Bhushan from India, Data Science professional with a strong passion for solving real-world business problems. I have Completed my graduation in Electronics and Telecommunication Engineering and also studied data science.
+Hi! I’m Bhushan from India, a passionate Data Science professional focused on leveraging data to solve real-world business challenges. I excel at transforming complex data into actionable insights that drive innovation.
 <br/>
 
-For me 'Data' is the currency of the digital age, and "data science" is the art of turning data into action. Data science is the bridge between the present and the future, it helps us to understand the present and predict the future. The immense power of data motivated me, and I began my journey into the field of data science.
+I believe data is the currency of the digital age, and data science bridges the gap between present challenges and future opportunities. I'm excited to continue my journey in this dynamic field and uncover new insights that drive meaningful change!
+
 
 
 #### 📫 **`Reach out to me on`**
