@@ -2,10 +2,8 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/bhushan-zade/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20%26%20AI%20Professional;Building%20Intelligent%20Solutions%20with%20AI;Driven%20by%20Curiosity%20and%20Innovation&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20%26%20AI%20Professional%20;ML%20and%20DL%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
-
 
 <img align="right" alt="coding" height="360" width="400" src="https://user-images.githubusercontent.com/118050962/214523594-42be6ec1-aeeb-4b20-a3a7-4790098028e2.gif">
 
