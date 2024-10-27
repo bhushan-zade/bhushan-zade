@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/bhushan-zade/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20Professional%20;ML%20and%20DL%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20\&%20AI%20Professional%20;ML%20and%20DL%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-**`Data Science Professional`**
+**`Data Science & AI Professional`**
 
 
 I'm Bhushan from India, Data Science professional with a strong passion for solving real-world business problems. I have Completed my graduation in Electronics and Telecommunication Engineering and also studied data science.
