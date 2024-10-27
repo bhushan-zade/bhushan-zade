@@ -23,6 +23,7 @@ I believe data is the currency of the digital age, and data science bridges the 
 
 
 
+
 #### 📫 **`Reach out to me on`**
 [<img align="left" alt="linkedin" width="30px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
   <a href="mailto:bhushanzade.in@gmail.com?subject=Hello%20Bhushan,%20From%20Github"><img align="left" alt="gmail" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
